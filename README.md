@@ -1,8 +1,8 @@
 # dashboard-frontend
 
 ## Run Project
-
-```yarn dev```
+- ```yarn install```
+- ```yarn dev```
 
 ## Users
 
